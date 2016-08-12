@@ -6,8 +6,8 @@
   "author": "Dustin Roe",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.x.x",
     "body-parser": "^1.x.x",
+    "express": "^4.14.0",
     "request": "2.56.x"
   }
 }
